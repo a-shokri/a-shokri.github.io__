@@ -1356,6 +1356,12 @@
 .fa-graduation-cap:before {
   content: "\f19d";
 }
+
+.fa-mortar-board:before,
+.fa-award:before {
+  content: "\f559";
+}
+
 .fa-yahoo:before {
   content: "\f19e";
 }
