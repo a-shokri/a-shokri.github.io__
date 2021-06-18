@@ -178,6 +178,7 @@ iframe {
   background: #fff;
   padding: 20px 25px 20px 25px;
   border-radius: 10px;
+  border: 2px solid #00000045
 }
 .section .heading {
   margin-top: 0;
