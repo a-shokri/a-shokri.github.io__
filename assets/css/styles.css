@@ -172,13 +172,13 @@ iframe {
   padding-bottom: 60px;
 }
 .section {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 .section .section-inner {
   background: #fff;
   padding: 20px 25px 20px 25px;
   border-radius: 10px;
-  border: 2px solid #88878745
+  border: 2px solid #5e5f6045
 }
 .section .heading {
   margin-top: 0;
