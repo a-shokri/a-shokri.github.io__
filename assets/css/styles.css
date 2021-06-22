@@ -18,6 +18,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+p{
+text-align:left;
+}
+
 h1,
 h2,
 h3,
@@ -198,6 +202,7 @@ iframe {
 .latest .item .title {
   font-size: 18px;
   margin-top: 0;
+  text-align:left;
 }
 .latest .item .title .label {
   margin-left: 5px;
