@@ -136,7 +136,11 @@ nav-link:hover {
     background: #fff;
     border-top: 5px solid #40406c;
     border-bottom: 50px solid /*#5f5fff45*/#40406c;
-    
+    padding-left: 15px;
+    padding-right: 15px;
+    border-left: 1px solid #9f9fb5;
+    border-right: 1px solid #9f9fb5;
+    border-radius: 10px;    
 }
 .header .btn {
     margin-top: 60px;
