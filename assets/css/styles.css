@@ -43,7 +43,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
-    color: #5f6b77;
+    color: #5f6b77; 
     color: #2d844e;
 }
 .btn,
@@ -591,5 +591,8 @@ nav-link:hover {
     .container {
         /*width: 1360px;*/
         width:80%;
+       padding-left:0px;
+     padding-right:0px;
+     
     }
 }
