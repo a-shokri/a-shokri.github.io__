@@ -565,6 +565,18 @@ function navigation( menuId ) {
     var els = document.getElementsByClassName("section-inner");
     for(var i = 0; i < els.length; i++)
     {
+      var isStatic = false;
+
+          var classLists = els[i].classList;
+ for(var i = 0; i < classLists.length; i++)
+    {
+    	if( classLists[i] == "static" )
+        	isStatic = true;
+    }
+
+        
+      if( isStatic )
+          continue;
       if( els[i].id == menuId )
           els[i].style.display = "block";
       else
