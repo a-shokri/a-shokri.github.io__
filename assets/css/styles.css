@@ -132,8 +132,8 @@ nav-link:hover {
 
 /* ======= Header ======= */
 .header {
-    padding: 30px 0;
-    background: #fff;
+    padding: 30px 0; 
+    background: #fff; 
     border-top: 5px solid #1d1d3e;
     border-bottom: 50px solid /*#5f5fff45*/#1d1d3e;
     padding-left: 15px;
