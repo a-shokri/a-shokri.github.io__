@@ -71,7 +71,7 @@
                                     Home
                                     </a>
                                     &nbsp;&nbsp;
-                                    <a class="nav-link " href="#research">
+                                    <a class="nav-link " href="#research" onclick="navigation('research');">
                                     <i class="fa fa-copy"></i>
                                     Research
                                     </a>
@@ -557,6 +557,22 @@
                                                                         <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
                                                                         <script type="text/javascript" src="http://caseyscarborough.github.io/github-activity/github-activity-0.1.0.min.js"></script>
                                                                         <!-- custom js -->
-                                                                        <script type="text/javascript" src="assets/js/main.js"></script>            
+                                                                        <script type="text/javascript" src="assets/js/main.js"></script>   
+
+
+<script>
+function navigation( menuId ) {
+    var els = document.getElementsByClassName("section-inner");
+    for(var i = 0; i < els.length; i++)
+    {
+      if( els[i].id == menuId )
+          els[i].style.display = "block";
+      else
+          els[i].style.display = "none";
+          
+    }    
+}
+</script>
+
                                                                         </body>
                                                                         </html> 
