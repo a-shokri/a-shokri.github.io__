@@ -141,7 +141,7 @@ nav-link:hover {
     border-left: 1px solid #9f9fb5;
     border-right: 1px solid #9f9fb5;
     border-radius: 10px; 
-    width: 80%;
+    width: 70%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -591,7 +591,7 @@ nav-link:hover {
 @media (min-width: 1400px) {
     .container {
         /*width: 1360px;*/
-        width:80%;
+        width:70%;
        padding-left:0px;
      padding-right:0px;
      
