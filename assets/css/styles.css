@@ -597,3 +597,12 @@ nav-link:hover {
      
     }
 }
+
+.col-md-4{
+  width: 25%
+}
+
+.col-md-8{
+    width: 75%
+
+}
