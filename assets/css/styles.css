@@ -227,7 +227,7 @@ nav-link:hover {
     margin-left: 5px;
     font-size: 12px;
 }
-.latest .item .title a {
+.latest .item .title a {  
     color: #778492;
 }
 .latest .item .title a:hover {
