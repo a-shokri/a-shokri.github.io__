@@ -556,7 +556,7 @@ nav-link:hover {
 }
 
 .col-md-8{
-    padding-right: 10px;
+    padding-right: 15px;
      float:right;
 }
 
@@ -600,6 +600,7 @@ nav-link:hover {
 
 .col-md-4{
   width: 25%
+  padding-right:0px;
 }
 
 .col-md-8{
