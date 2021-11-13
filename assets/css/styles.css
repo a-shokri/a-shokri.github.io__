@@ -11,15 +11,15 @@
      
 /* ======= Base ======= */
 body { 
-    font-family: 'Lato', arial, sans-serif;
+    font-family: 'Lato', arial, sans-serif; 
     color: #434343;
     /*background: #dae3e7;*/
     background: #f4f4f4;
-    font-size: 16px; 
+    font-size: 16px;  
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 } 
-
+  
 p{
     text-align:left;
 }
