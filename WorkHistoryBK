@@ -1,0 +1,166 @@
+                                                            <section id="experience" class="experience section">
+                                                            <div   class="section-inner">
+                                                            <h2 class="heading">Work Experience</h2>
+                                                            <div class="content">
+                                                            
+                                                            Please find an overview of my experiences as follows:
+                                                            <img  style="width:100%; margin:auto" src="assets/images/Experience_Overview.png" alt="Experience Overview" />
+                                                            
+                                                            <br>
+                                                            You may find more deails of my work experience from my <a href="assets/Ali Shokri-CV-2021.pdf" target="_blank">CV</a>.    
+                                                            <!--    
+                                                            Followings, you may find more details:
+                                                            
+                                                            <div class="item">
+                                                                <h3 class="title">Graduate Research Assistant - <span class="place"><a href="http://design.se.rit.edu/">Software Design and Productivity Lab (SDPL)</a></span> <span class="year">(2018 - Present)</span></h3>
+                                                                <p>
+                                                                <ul>
+                                                                    <li>Location: Rochester, NY, USA</li>
+                                                                    <li>Projects Involved in: Software Synthesis, Software Certification, Security Tactics</li>
+                                                                    <li>Responsibilities: Research, Writing Paper, Reviewing Paper, Grant Proposal, Presentation, Software Development, Software Design</li>
+                                                                    <span class="label label-theme">Journals & Conferences</span> <span class="label label-theme">Overleaf</span> <span class="label label-theme">IntelliJ IDEA</span> <span class="label label-theme">Java</span> <span class="label label-theme">Power Designer</span>
+                                                                        </ul>
+                                                                        </p>
+                                                                        </div><!--//item-->
+                                                                        
+                                                                        
+                                                                        <div class="item">
+                                                                        <h3 class="title">Senior Software Engineer - <span class="place"><a href="http://www.samenea.com">Samen Ertebat Asr (SEA)</a></span> <span class="year">(2016 - 2018)</span></h3>
+                                                                        <p>
+                                                                        <ul>
+                                                                        <li>Location: Tehran, Iran</li>
+                                                                        <li>Projects Involved in: Banking System</li>
+                                                                        <li>Responsibilities: Software Architecture, Software Design, Software Development</li>
+                                                                        <span class="label label-theme">Java</span> <span class="label label-theme">GWT</span> <span class="label label-theme">IntelliJ IDEA</span> <span class="label label-theme">Oracle</span> <span class="label label-theme">Power Designer</span>
+                                                                        </ul>
+                                                                        </p>
+                                                                        </div><!--//item-->
+                                                                        
+                                                                          
+                                                                        <div class="item">
+                                                                        <h3 class="title">Senior Software Engineer - <span class="place"><a href="https://www.linkedin.com/search/results/all/?keywords=IIN%20Groups">Rose System (IIN Groups)</a></span> <span class="year">(2016 - 2016)</span></h3>
+                                                                        <p>
+                                                                        <ul>
+                                                                        <li>Location: Tehran, Iran</li>
+                                                                        <li>Projects Involved in: Scientific Content Provider</li>
+                                                                        <li>Responsibilities: Software Architecture, Software Design, Leading a Team</li>
+                                                                        <span class="label label-theme">Java</span> <span class="label label-theme">IntelliJ IDEA</span> <span class="label label-theme">Power Designer</span>  <span class="label label-theme">SOA</span> <span class="label label-theme">Broaker</span>
+                                                                        </ul>
+                                                                        </p>
+                                                                        </div><!--//item-->
+                                                                        
+                                                                        
+                                                                        
+                                                                        <div class="item">
+                                                                        <h3 class="title">Senior Software Engineer - <span class="place"><a href="http://www.melat.ir">Mellat Insurance</a></span> <span class="year">(2011 - 2016)</span></h3>
+                                                                        <p>
+                                                                        <ul>
+                                                                        <li>Location: Tehran, Iran</li>
+                                                                        <li>Projects Involved in: Insurance System, Banking System, Global Distribution System (GDS)</li>
+                                                                        <li>Responsibilities: Leading a Team, Project Management, Software Architecture, Software Design, Software Development</li>
+                                                                        <span class="label label-theme">Java & J2EE</span> <span class="label label-theme">MyEclipse</span> <span class="label label-theme">SQL Server</span> <span class="label label-theme">Oracle</span> <span class="label label-theme">Weblogic</span> <span class="label label-theme">Rational Rose</span> <span class="label label-theme">Power Designer</span> <span class="label label-theme">SOA</span>
+                                                                        </ul>
+                                                                        </p>
+                                                                        </div><!--//item-->
+                                                                        
+                                                                        
+                                                                        <div class="item">
+                                                                        <h3 class="title">Software Engineer - <span class="place"><a href="https://raydana.com/en/">Raydana</a></span> <span class="year">(2005 - 2012)</span></h3>
+                                                                        <p>
+                                                                        <ul>
+                                                                        <li>Location: Tehran, Iran</li>
+                                                                        <li>Projects Involved in: Enterprise Resource Planning (ERP) System</li>
+                                                                        <li>Responsibilities: Leading a Team, Project Management, Software Design, Software Development</li>
+                                                                        <span class="label label-theme">Java & J2EE</span> <span class="label label-theme">MyEclipse</span> <span class="label label-theme">MySql</span> <span class="label label-theme">SQL Server</span> <span class="label label-theme">Tomcat</span> <span class="label label-theme">Struts</span> <span class="label label-theme">Rational Rose</span> <span class="label label-theme">Power Designer</span>
+                                                                        </ul>
+                                                                        </p>
+                                                                        </div><!--//item-->
+                                                                        
+                                                                        <div class="item">
+                                                                        <h3 class="title">Software Engineer - <span class="place"><a href="http://www.palizct.com">Paliz CT</a></span> <span class="year">(2006 - 2007)</span></h3>
+                                                                        <p>
+                                                                        <ul>
+                                                                        <li>Location: Tehran, Iran</li>
+                                                                        <li>Projects Involved in: Tehran Municipality System</li>
+                                                                        <li>Responsibilities: Requirement Analysis, Software Design, Software Development</li>
+                                                                        <span class="label label-theme">.Net framework</span> <span class="label label-theme">C#</span> <span class="label label-theme">Visual Studio</span> <span class="label label-theme">Ajax tools</span> <span class="label label-theme">SQL Server</span>
+                                                                        </ul>
+                                                                        </p>
+                                                                        </div><!--//item-->
+                                                                        
+                                                                        <div class="item">
+                                                                        <h3 class="title">Co-Founder & Lead Developer - <span class="place"><a href="http://www.rayanct.com">Rayan Narm Fan</a></span> <span class="year">(2006 - 2010)</span></h3>
+                                                                        <p>
+                                                                        <ul>
+                                                                        <li>Location: Tehran, Iran</li>										
+                                                                        <li>Projects Involved in: Qeshm Entrance-Exit Control System</li>										
+                                                                        <li>Responsibilities: CEO, Leading a Team, Software Design, Software Development </li>
+                                                                        <span class="label label-theme">Java & J2EE</span> <span class="label label-theme">Eclipse</span> <span class="label label-theme">MySql</span> <span class="label label-theme">Liferay</span>
+                                                                        </ul>
+                                                                        </p>
+                                                                        </div><!--//item-->
+                                                                        
+                                                                        <div class="item">
+                                                                        <h3 class="title">Freelancer - <span class="place"></span> <span class="year">(2004 - 2005)</span></h3>
+                                                                        <p>
+                                                                        <ul>
+                                                                        <li>Location: Tehran, Iran</li>										
+                                                                        <li>Projects Involved in: Software Development</li>										
+                                                                        <li>Responsibilities: Software Development, Website Development </li>
+                                                                        <span class="label label-theme">Delphi</span> <span class="label label-theme">CBuilder</span> <span class="label label-theme">Asp</span> <span class="label label-theme">Access</span>
+                                                                        </ul>
+                                                                        </p>
+                                                                        </div><!--//item-->							
+                                                                        -->
+                                                                        </div><!--//content-->  
+                                                                        </div><!--//section-inner-->                 
+                                                                        </section><!--//section-->
+                                                                        
+                                                                        
+                                                                        <section id="services" class="experience section">
+                                                                        <div  class="section-inner">
+                                                                        
+                                                                        <h2 class="heading">Contributions to SE Community</h2>
+                                                                        
+                                                                        <div class="content">
+                                                                        
+                                                                        <div class="item">
+                                                                        <h3 class="title">Paper Reviewer - <span class="place">Conferences/Journals</span></h3>
+                                                                        <p> 
+                                                                        <ul>
+                                                                        <li>Reviewer for the IEEE Software Journal (<a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=52">IEEE Softw.</a>)</li>										
+                                                                        <li>Reviewer for the Journal of Systems & Software (<a href="https://www.journals.elsevier.com/journal-of-systems-and-software">JSS</a>)</li>										
+                                                                        <li>Reviewer for the e-Informatica Software Engineering Journal (<a href="https://www.e-informatyka.pl">EISEJ</a>)</li>										
+                                                                        <li>Sub-reviewer for ACM Transactions on Software Engineering and Methodology (<a href="https://dl.acm.org/journal/tosem">ToSEM</a>)</li>										
+                                                                        <li>Sub-reviewer at 42nd International Conference on Software Engineering (<a href="https://conf.researchr.org/home/icse-2020">ICSE 2020</a>)</li>										
+                                                                        </ul>
+                                                                        </p>
+                                                                        </div><!--//item-->
+                                                                        
+                                                                        <div class="item">
+                                                                        <h3 class="title">PC Member - <span class="place">Conferences</span></h3>
+                                                                        <p> 
+                                                                        <ul>
+                                                                        <li>37th International Conference on Software Maintenance and Evolution (<a href="https://icsme2021.github.io/ProgramCommittee.html">ICSME 2021</a>)</li>										
+                                                                        </ul>
+                                                                        <ul>
+                                                                        <li>35th European Conference on Object-Oriented Programming (<a href="https://2021.ecoop.org/track/ecoop-2021-ecoop-artifacts">ECOOP 2021</a>)</li>										
+                                                                        </ul>
+                                                                        </p>
+                                                                        </div><!--//item-->
+                                                                        
+                                                                        
+                                                                        <div class="item">
+                                                                        <h3 class="title">Lecturer - <span class="place">Academic/Industry</span></h3>
+                                                                        <p> 
+                                                                        <ul>
+                                                                        <li>RIT <a href="http://www.se.rit.edu/~swen-610/index.html">SWEN-610</a> - Graduate Level Course (Guest Lecturer): Foundation of Software Engineering (An Introduction to Program Synthesis - <a href="https://www.youtube.com/watch?v=wvbqBAWnMgY">Video</a>)</li>										
+                                                                        <li>Design Patterns (<a href="http://www.melat.ir">Melat Insurance Co.</a>)</li>										
+                                                                        <li>Java Programming (<a href="http://www.raydana.com">Raydana Co.</a>)</li>										
+                                                                        </ul>
+                                                                        </p>
+                                                                        </div><!--//item-->
+                                                                        
+                                                                        </div><!--//content-->  
+                                                                        </div><!--//section-inner-->                 
+                                                                        </section><!--//section-->	
