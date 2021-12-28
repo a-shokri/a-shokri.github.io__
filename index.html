@@ -504,7 +504,7 @@ function navigation( menuId ) {
         
       if( isStatic ) 
           continue;
-      if( els[i].id == menuId )
+      if( els[i].id == menuId || (els[i].id == "news" && menuId == "about"))
           els[i].style.display = "block"; 
       else
           els[i].style.display = "none";
