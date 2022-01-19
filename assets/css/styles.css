@@ -189,7 +189,10 @@ border-top:0px;
     margin-bottom: 15px;
 }
 .header .profile-content .social a {
-    background: #7272d2;
+/*    background: #7272d2;*/
+background:#2271d7;
+/*background:#233ea9;*/
+/*background:#0d65d7;*/
     width: 36px;
     height: 36px;
     display: inline-block;
