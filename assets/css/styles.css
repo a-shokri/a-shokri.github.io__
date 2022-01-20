@@ -50,6 +50,11 @@ a:hover {
 /*    color: #5f6b77; */
 /*    color: #2d844e;*/
 }
+
+.navbar a:hover{
+  text-decoration: none; 
+}
+
 .btn,
 a.btn {
     -webkit-transition: all 0.4s ease-in-out;
